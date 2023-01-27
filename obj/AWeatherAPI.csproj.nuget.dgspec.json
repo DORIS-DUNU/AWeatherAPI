@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doris Dunu\\Downloads\\AWeatherAPI-master (1)\\AWeatherAPI\\AWeatherAPI\\AWeatherAPI.csproj": {}
+    "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doris Dunu\\Downloads\\AWeatherAPI-master (1)\\AWeatherAPI\\AWeatherAPI\\AWeatherAPI.csproj": {
+    "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doris Dunu\\Downloads\\AWeatherAPI-master (1)\\AWeatherAPI\\AWeatherAPI\\AWeatherAPI.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj",
         "projectName": "AWeatherAPI",
-        "projectPath": "C:\\Users\\Doris Dunu\\Downloads\\AWeatherAPI-master (1)\\AWeatherAPI\\AWeatherAPI\\AWeatherAPI.csproj",
-        "packagesPath": "C:\\Users\\Doris Dunu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doris Dunu\\Downloads\\AWeatherAPI-master (1)\\AWeatherAPI\\AWeatherAPI\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Doris Dunu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,7 +105,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

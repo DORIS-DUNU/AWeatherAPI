@@ -6,6 +6,7 @@ namespace AWeatherAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class WeathersController : ControllerBase
     {
         private readonly IWeatherService _weatherService;

@@ -2,7 +2,6 @@
 
 namespace AWeatherAPI.Interface
 {
-   
         public interface IAuthRepository
         {
             public Task<object> Login(LoginDTO model);

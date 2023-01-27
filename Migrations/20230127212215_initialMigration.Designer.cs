@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AWeatherAPI.Migrations
 {
     [DbContext(typeof(WeatherDbContext))]
-    [Migration("20230126223656_InitialMigration")]
-    partial class InitialMigration
+    [Migration("20230127212215_initialMigration")]
+    partial class initialMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
