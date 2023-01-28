@@ -5484,11 +5484,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\doris\\AWeatherAPI\\AWeatherAPI.csproj",
       "projectName": "AWeatherAPI",
-      "projectPath": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\doris\\AWeatherAPI\\AWeatherAPI.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\doris\\AWeatherAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

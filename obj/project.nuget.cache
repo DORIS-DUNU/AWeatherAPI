@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5oJryMvzCppXxV3FYHB/0U0ogQ9mGcmIH2Jf9K+oloUgx3w1ib3Q1wHOpX4I1DpHqSHv0QZhFTwdJD6wGh8K8w==",
+  "dgSpecHash": "oLAfkvJdturLP/DnHthmkDLVImkqi7IMRhg5RNMb1EOu63C/1xcBG/z8pvfHsnttngW+DcnshTNun/+bxrN2Lw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Downloads\\AWeatherAPI-master\\AWeatherAPI\\AWeatherAPI.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\doris\\AWeatherAPI\\AWeatherAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

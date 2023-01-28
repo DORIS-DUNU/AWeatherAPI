@@ -7,6 +7,7 @@ namespace AWeatherAPI.DTO
         [Required(ErrorMessage = "User Name is required")]
         public string Username { get; set; }
 
+        [Required]
         public string Password { get; set; }
     }
 }
